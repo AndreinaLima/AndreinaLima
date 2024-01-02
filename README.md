@@ -7,12 +7,12 @@
 
 <picture> <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right"></picture>
 <br>
-- :man: Me Chamo `Andreina Lima` e Tenho 23 Anos
+- 👱‍♀️ Me Chamo `Andreina Lima` e tenho 23 Anos
 - :school: Estudante de `Ciência da Computação` na `Universidade Federal de Campina Grande`
-- :technologist: Atualmente me especializando em  `Frontend Development`
-- :man_technologist: Me Siga nas Redes Sociais [`Linkedin`](https://www.linkedin.com/in/andreina-lima-1005b5206/) [`Instagram`](https://www.instagram.com/andyxlima/)
+- 🧑‍💻 Atualmente me especializando em  `Frontend Development`
+- :woman_technologist: Me Siga nas Redes Sociais [`Linkedin`](https://www.linkedin.com/in/andreina-lima-1005b5206/) [`Instagram`](https://www.instagram.com/andyxlima/)
 - :email: Sinta-se à vontade para entrar em contato comigo [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Andreina&amp;color=EA4335&amp;style=flat-square)](mailto:andreinaadelima14@gmail.com)
-- :nerd_face: Always believe `"You are what you loved"`
+- 🌸 Always determined `"You are what you loved"`
 
 <br>
 
@@ -22,8 +22,8 @@
 <br>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AndreinaLima&show_icons=true&count_private=true&hide_border=true&title_color=644aff&icon_color=644aff&text_color=c9d1d9&bg_color=0d1117" alt="Andreina Lima github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreinaLima&layout=compact&hide_border=true&title_color=644aff&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AndreinaLima&show_icons=true&count_private=true&hide_border=true&title_color=D68EEF&icon_color=D68EEF&text_color=c9d1d9&bg_color=0d1117" alt="Andreina Lima github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreinaLima&layout=compact&hide_border=true&title_color=D68EEF&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 <br>
 
