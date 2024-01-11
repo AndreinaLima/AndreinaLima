@@ -10,7 +10,7 @@
 - 👱‍♀️ Me Chamo `Andreina Lima` e tenho 23 Anos
 - :school: Estudante de `Ciência da Computação` na `Universidade Federal de Campina Grande`
 - 🧑‍💻 Atualmente me especializando em  `Frontend Development`
-- :woman_technologist: Me Siga nas Redes Sociais [`Linkedin`](https://www.linkedin.com/in/andreina-lima-1005b5206/) [`Instagram`](https://www.instagram.com/andyxlima/)
+- :woman_technologist: Me Siga nas Redes Sociais [`Linkedin`](https://www.linkedin.com/in/andreina-lima-1005b5206/) [`Instagram`](https://)
 - :email: Sinta-se à vontade para entrar em contato comigo [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Andreina&amp;color=EA4335&amp;style=flat-square)](mailto:andreinaadelima14@gmail.com)
 - 🌸 Always determined `"You are what you loved"`
 
