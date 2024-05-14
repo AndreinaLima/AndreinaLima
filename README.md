@@ -7,7 +7,7 @@
 
 <picture> <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right"></picture>
 <br>
-- 👱‍♀️ Me Chamo `Andreina Lima` e tenho 23 Anos
+- 👱‍♀️ Me Chamo `Andreina Lima` e tenho 24 Anos
 - :school: Estudante de `Ciência da Computação` na `Universidade Federal de Campina Grande`
 - 🧑‍💻 Atualmente me especializando em  `Frontend Development`
 - :woman_technologist: Me Siga nas Redes Sociais [`Linkedin`](https://www.linkedin.com/in/andreina-lima-1005b5206/) [`Instagram`](https://)
