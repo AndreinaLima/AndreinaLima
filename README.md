@@ -32,7 +32,7 @@
 </h3> 
 
 <p align="center" >
-  <a href="https://skillicons.dev" ><img src="https://skillicons.dev/icons?i=js,html,css,react,node" /></a>
+  <a href="https://skillicons.dev" ><img src="https://skillicons.dev/icons?i=js,html,css,react,node.js" /></a>
 </p>
 <br>
 
@@ -42,7 +42,7 @@
 
 <div align="center">
   
-  ![](https://skillicons.dev/icons?i=js,html,css,react,node)
+  ![](https://skillicons.dev/icons?i=js,html,css,react,node.js)
   
 </div>
 
