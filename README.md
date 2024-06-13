@@ -8,9 +8,9 @@
 <picture> <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right"></picture>
 <br>
 - 👱‍♀️ Me Chamo `Andreina Lima` e tenho 24 Anos
-- :school: Estudante de `Ciência da Computação` na `Universidade Federal de Campina Grande`, e Estudade do `BootCamp Full Stack (Node + React)` na `SoulCode`
+- :school: Estudante de `Ciência da Computação` na `Universidade Federal de Campina Grande`, e Estudante do `BootCamp Full Stack (Node + React)` na `SoulCode`
 - 🧑‍💻 Atualmente me especializando em  `Frontend Development`
-- :woman_technologist: Me Siga nas Redes Sociais [`Linkedin`](https://www.linkedin.com/in/andreinalima/) [`Instagram`](https://)
+- :woman_technologist: Me Siga nas Redes Sociais [`Linkedin`](https://www.linkedin.com/in/andreinalima/)
 - :email: Sinta-se à vontade para entrar em contato comigo [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Andreina&amp;color=EA4335&amp;style=flat-square)](mailto:andreinaadelima14@gmail.com)
 - 🌸 Always determined `"You are what you loved"`
 
@@ -32,7 +32,7 @@
 </h3> 
 
 <p align="center" >
-  <a href="https://skillicons.dev" ><img src="https://skillicons.dev/icons?i=js,html,css,react,node.js" /></a>
+  <a href="https://skillicons.dev" ><img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs" /></a>
 </p>
 <br>
 
