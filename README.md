@@ -9,7 +9,7 @@
 <br>
 - 👱‍♀️ Me Chamo `Andreina Lima` e tenho 24 Anos
 - :school: Estudante de `Ciência da Computação` na `Universidade Federal de Campina Grande`, e Estudante do `BootCamp Full Stack (Node + React)` na `SoulCode`
-- 🧑‍💻 Atualmente me especializando em  `Frontend Development`
+- 🧑‍💻 Atualmente me especializando em  `Fullstack Development`
 - :woman_technologist: Me Siga nas Redes Sociais [`Linkedin`](https://www.linkedin.com/in/andreinalima/)
 - :email: Sinta-se à vontade para entrar em contato comigo [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Andreina&amp;color=EA4335&amp;style=flat-square)](mailto:andreinaadelima14@gmail.com)
 - 🌸 Always determined `"You are what you loved"`
